@@ -1,0 +1,6 @@
+{
+  "name": "RTS Motorsport",
+  "description": "High-perfomance engineering telemetry console featuring real-time physics simulation, dynamic track telemetry, infrared heatmaps, biothermal engine cylinders diagnostic, and RTS pilot authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
